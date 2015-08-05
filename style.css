@@ -13,12 +13,10 @@ h1 {
      font-size: 36px;
     }
 nav a{
+     text-align: center;
      color:#000000;
      text-decoration: none;
-     text-align: center;
-
-     
-}    
+     }    
 nav a:visited{
      color: #000000;
 }
