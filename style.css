@@ -1,5 +1,5 @@
 body {
-     text-align: center;
+     
      background-color: lavender;
      color: #DB7093;
      font-family: 'Architects Daughter', cursive;
@@ -7,6 +7,7 @@ body {
      background-size: cover;
     }
 h1 {
+     text-align: center;
      color: #455A64;
      font-family: 'Pacifico', cursive;
     }
