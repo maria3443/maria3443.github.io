@@ -12,8 +12,13 @@ h1 {
      font-family: 'Pacifico', cursive;
      font-size: 36px;
     }
+    nav{
+         text-align: center;
+    }
+         
+    }
 nav a{
-     text-align: center;
+     
      color:#000000;
      text-decoration: none;
      }    
