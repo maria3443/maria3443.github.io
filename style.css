@@ -3,7 +3,7 @@ body {
      background-color: lavender;
      color: #FF581C;
      font-family: 'Courgette', cursive;
-     background-image: <img src="http://es.tinypic.com?ref=f3asza";
+     background-image: url(http://es.tinypic.com?ref=f3asza);
      background-size: cover;
      font-size: 30px;
     }
