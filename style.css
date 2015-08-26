@@ -51,6 +51,7 @@ section a{
      padding: 20px;
      text-decoration: none;
      text-transform: uppercase;
+     height: 25px;
 }
 section {
   position: relative;
