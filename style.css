@@ -45,5 +45,10 @@ section {
      width: 100%;
      
 }
+section a{
+     color: #fff;
+     border: 1px solid #fff;
+     padding: 20px;
+}
     
   
