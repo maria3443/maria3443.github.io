@@ -6,6 +6,7 @@ body {
      background-image: url(http://www.transcarga.net/wp-content/uploads/2015/08/woman-legs-girl-grey.jpg);
      background-size: cover;
      font-size: 24px;
+     margin: 0;
     }
 h1 {
      text-align: center;
@@ -42,7 +43,7 @@ section {
      text-align: center;
      height: 500px;
      width: 100%;
-     margin: 0;
+     
 }
     
   
