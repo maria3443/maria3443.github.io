@@ -4,6 +4,7 @@
   font-weight: bold;
   padding: 14px 10px;
   text-transform: uppercase;
+  font-family: 'Indie Flower', cursive;
 }
 
 .nav li {
@@ -39,9 +40,10 @@
 }
 
 .learn-more h3 {
-  font-family: 'Shift', sans-serif;
+  
   font-size: 18px;
   font-weight: bold;
+  font-family: 'Indie Flower', cursive;
 }
 
 .learn-more a {
@@ -61,5 +63,6 @@
 
 .neighborhood-guides p{
      font-size: 15px;
-    margin-bottom: 13px;    
+    margin-bottom: 13px; 
+    font-family: 'Indie Flower', cursive;
 }
