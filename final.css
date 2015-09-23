@@ -33,6 +33,7 @@
 .jumbotron p {
   font-size: 20px;
   color: #fff;
+  font-family: 'Indie Flower', cursive;
 }
 
 .learn-more {
@@ -58,6 +59,7 @@
 .neighborhood-guides h2{
     color: #393c3d;
     font-size: 24px;
+    font-family: 'Pacifico', cursive;
 
 }
 
